@@ -14,6 +14,9 @@ define('APP_PATH','./Home/');
 // 定义应用目录
 define('APP_NAME','index');
 
+//定义应用需要的常量信息
+define("CSS_URL","shop/public/home/css/");
+
 // 引入ThinkPHP入口文件
 require '../tpp3.2/ThinkPHP.php';
 
