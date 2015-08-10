@@ -1,0 +1,9 @@
+DEBUG - 是debug信息!
+INFO - 是info信息!
+ERROR - 是error信息!
+08/10/15 15:50:48,408 [8976] DEBUG IndexAction - 是debug信息!
+08/10/15 15:50:48,408 [8976] INFO IndexAction - 是info信息!
+08/10/15 15:50:48,409 [8976] ERROR IndexAction - 是error信息!
+08/10/15 15:51:20,812 [8976] DEBUG IndexAction - 是debug信息!
+08/10/15 15:51:20,812 [8976] INFO IndexAction - 是info信息!
+08/10/15 15:51:20,813 [8976] ERROR IndexAction - 是error信息!

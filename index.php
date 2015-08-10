@@ -1,4 +1,6 @@
 <?php
+
+
 //
 
 // 应用入口文件
@@ -13,7 +15,8 @@ define('APP_DEBUG',True);
 define('APP_PATH','./Home/');
 // 定义应用目录
 define('APP_NAME','index');
-
+//定义log4php日志类库
+define('LOG4PHP_DIR', "./Home/Lib/Log4php/");
 //定义应用需要的常量信息
 define("CSS_URL","shop/public/home/css/");
 

@@ -5,6 +5,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>是模板</p>
+	<p>加载index模板</p>
 </body>
 </html>

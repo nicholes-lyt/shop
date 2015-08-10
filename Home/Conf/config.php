@@ -15,4 +15,7 @@ return array(
  	'APP_DEBUG'         =>  true, 
     'SHOW_PAGE_TRACE'   =>  true, 
 );
+
+defined('parser_fun');
+
 ?>
